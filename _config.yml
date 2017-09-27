@@ -1,0 +1,50 @@
+# Site settings
+title: ALPS Lab
+email: erindb@stanford.edu
+description: >
+  interActive Language Processing at Stanford Lab
+  (or ALPS Lab for short)
+#baseurl: "/home/feste/everything-cocolab/WWW"
+#url: "https://web.stanford.edu/~erindb/cocowebsite/WWW"
+#url: "file://" # the base hostname & protocol for your site
+#url: "http://cocolab.stanford.edu/"
+github_username:  thegricean
+
+gems: ['jekyll/scholar']
+
+max_year: 2017 #the most recent year with papers published
+# i should figure out how to automate that...
+
+# Build settings
+markdown: redcarpet
+
+# for BibTeX
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  bibliography_list_tag: ul
+
+  source: ./_bibliography
+  bibliography: alpslab
+  bibliography_template: <p>{{reference}} {{entry.annote}}</p>
+
+  replace_strings: true
+  join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   "[Abstract/BibTeX]"
+
+  query: "@*"
+
+exclude:
+  - "files"
+  - "wikiuploads"
+
+keep_files:
+  - "files"
+  - "wikiuploads"
