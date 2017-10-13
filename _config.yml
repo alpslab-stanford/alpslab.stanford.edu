@@ -1,13 +1,14 @@
 # Site settings
 title: ALPS Lab
-email: erindb@stanford.edu
+email: jdegen@stanford.edu
 description: >
   interActive Language Processing at Stanford Lab
   (or ALPS Lab for short)
 #baseurl: "/home/feste/everything-cocolab/WWW"
 #url: "https://web.stanford.edu/~erindb/cocowebsite/WWW"
 #url: "file://" # the base hostname & protocol for your site
-#url: "http://cocolab.stanford.edu/"
+#url: "http://alpslab.stanford.edu/"
+url: "http://web.stanford.edu/group/alpslab"
 github_username:  thegricean
 
 gems: ['jekyll/scholar']
