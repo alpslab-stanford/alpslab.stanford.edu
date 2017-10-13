@@ -4,13 +4,14 @@ title: Resources
 permalink: resources.html
 ---
 
-## Software
-
-* [TDTlite -- the TGrep2 Database Tools for searching syntactically parsed corpora]({{site.url}}{{site.baseurl}}/tdtlite.html)
-
 ## Tutorials
 
 * [Probabilistic Language Understanding](//gscontras.github.io/probLang/)
+* [LINGUIST 245 Methods in Psycholinguistics notes](https://github.com/thegricean/LINGUIST245)
+
+## Software
+
+* [TDTlite -- the TGrep2 Database Tools for searching syntactically parsed corpora]({{site.url}}{{site.baseurl}}/tdtlite.html)
 
 ## Internal
 
