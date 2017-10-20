@@ -15,7 +15,7 @@ permalink: resources.html
 
 ## Internal
 
-* [ALPS Lab Wiki](//www.stanford.edu/group/stanford/cgi-bin/mediawiki/index.php/Main_Page)
+* [ALPS Lab Wiki](https://asconfluence.stanford.edu/confluence/display/ALPSLAB/ALPS+Lab+Home)
 * Sign up for our [Mailing List](//mailman.stanford.edu/mailman/listinfo/alps-lab-all) for talk announcements
 
 ## Related Groups
