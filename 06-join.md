@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Join Us
+title: Join
 permalink: join.html
 ---
 
 <img class="join-img" src="images/stanford-spring.jpg" alt="Where we are!">
 
-Anyone interested in joining ALPS Lab should first get to know the research we do, for instance by reading some of our [publications](/publications.html). (You might also want to look at the [resources](/resources.html).)
+Anyone interested in joining the ALPS Lab should first get to know the research we do, for instance by reading some of our [publications](/publications.html).
 
-If you'd like to receive email announcements from us about lab meetings, talks, and other interesting science updates, please sign up for our mailing list.
+If you'd like to receive email announcements from us about lab meetings, talks, and other interesting science updates, please sign up for our [mailing list](https://mailman.stanford.edu/mailman/listinfo/alps-lab-all).
 
 Potential postdocs: Please contact Judith Degen directly.
 
-Potential graduate students: Please submit an application through the Department of Linguistics Graduate Admissions webpage.
+Potential graduate students: Please submit an application through the [Department of Linguistics Graduate Admissions website](https://linguistics.stanford.edu/degree-programs/graduate-admissions).
 
-Potential research assistants (undergraduate or masters): Please send Judith Degen an email with the following details: Name, SUNetID, year of study, major, why you want to join the lab and what type of projects are you interested in. Include any relevant research and programming experience.
+Potential research assistants (undergraduate or masters): Please send Judith Degen an email expressing interest, and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScd0AD-ed74v1F-a7qozr-rl6ioF02Xr8FWM5FqH3ynuISjqg/viewform?usp=sf_link).
