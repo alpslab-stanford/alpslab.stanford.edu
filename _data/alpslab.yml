@@ -3,6 +3,10 @@
     - name: Judith Degen
       img: judith.jpg
       webpage: //www.stanford.edu/people/jdegen
+      bio: 
+        - > 
+          Judith did her undergrad and MSc work in Cognitive Science at the University of Osnabrück and her PhD work in Brain & Cognitive Sciences and Linguistics at the University of Rochester. She is interested in the interaction of linguistic information, context, and world knowledge in incremental language production and comprehension.
+          
 - role: Graduate Students
   people:
     - name: Masoud Jasbi
