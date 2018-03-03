@@ -4,8 +4,9 @@ title: Home
 permalink: index.html
 ---
 
-## Welcome to the website of the ALPS Lab (interActive Language Processing at Stanford), in the Department of Linguistics at Stanford.
+XXX BIG LOGO XXX
 
-### News
+Welcome to the website of the ALPSLab, where we study the inference processes involved in language production and comprehension. We study both sides of the communicative coin: how speakers choose an utterance to convey an intended meaning and how listeners arrive at interpretations that are often much richer and more detailed than the utterance's literal meaning. To develop and test explicit theories of these processes, we employ linguistic analysis, behavioral experiments, corpus methods, and computational modeling.
 
-* We are online!
+XXX LINK TO STANFORD LINGUISTICS -- LINK TO STANFORD XXX
+
