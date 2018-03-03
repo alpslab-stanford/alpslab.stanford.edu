@@ -4,8 +4,6 @@ title: Join
 permalink: join.html
 ---
 
-<img class="join-img" src="images/stanford-spring.jpg" alt="Where we are!">
-
 Anyone interested in joining the ALPS Lab should first get to know the research we do, for instance by reading some of our [publications](/publications.html).
 
 If you'd like to receive email announcements from us about lab meetings, talks, and other interesting science updates, please sign up for our [mailing list](https://mailman.stanford.edu/mailman/listinfo/alps-lab-all).
