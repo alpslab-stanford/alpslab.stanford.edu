@@ -3,13 +3,19 @@ layout: default
 title: Publications
 permalink: publications.html
 ---
-## Manuscripts
+## Pending
 
 {% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=Manuscript] %}
 
-## To appear
+### To appear
 
-{% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=To appear] %}
+{% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=to appear] %}
+
+{% for year in (2006..{{site.max_year}}) reversed %}
+
+### Submitted
+
+{% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=submitted] %}
 
 {% for year in (2006..{{site.max_year}}) reversed %}
 
