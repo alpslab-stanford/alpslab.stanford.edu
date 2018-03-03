@@ -96,56 +96,7 @@ $logo-width:		130px;;
     margin-left: 0px;
 }
 
-.main_carousel {
-    width: 60%;
-    @include media-query($on-palm) {
-        width: 80%;
-    }
-    @media screen and (min-width: 1905px) {
-        width: 972px;
-    }
-    margin: auto auto;
 
-    img, p {
-        margin: auto auto;
-    }
-
-    p {
-        margin: auto auto;
-        text-align: center;
-        position: absolute;
-        bottom: 20px;
-        color: #fff;
-        background-color:  rgba(0,0,0,0.75);
-        z-index: 10;
-	   opacity: 100%;
-    }
-
-    button {
-        width: 60px;
-        height: 100%;
-        top: 10px;
-        bottom: 0px;
-        color: #fff;
-        opacity: 100%;
-        &.slick-next {
-            right: 0px;
-            left: auto;
-            background-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
-            &:hover {
-                background-image: linear-gradient(to right, transparent 0%, rgba(0, 0, 0, 0.75) 100%);
-            }
-        }
-        &.slick-prev {
-            left: 0px;
-            right: auto;
-            background-image: linear-gradient(to left, transparent 0%, rgba(0, 0, 0, 0.5) 100%);
-            &:hover {
-                background-image: linear-gradient(to left, transparent 0%, rgba(0, 0, 0, 0.75) 100%);
-            }
-        }
-    }
-}
 
 /*.slick-dots {
     @media screen and (max-width: 469px) {
