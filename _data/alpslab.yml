@@ -9,11 +9,8 @@
 
 - role: Graduate students
   people:
-    - name: Judith Degen
-      img: judith.jpg
-      webpage: //www.stanford.edu/people/jdegen
+    - name: Brandon Waldon
+      img: brandon.jpg
       bio:
         - >
-          bla
-        - >
-          bla
+          Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language. 

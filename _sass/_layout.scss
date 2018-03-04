@@ -6,7 +6,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    background-color: $navbar-color;
+    background-color: $grey-color-light;
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -33,6 +33,7 @@
 
 .site-nav {
 
+    text-align: center;
     line-height: $logo-height;
 
     .menu-icon {
@@ -45,7 +46,7 @@
         display: inline-block;
 
         .page-link {
-            color: #ffffff;
+            color: $grey-color-dark;
             font-size: $base-font-size*1.1;
             font-weight: 600;
             text-decoration: none;
@@ -66,7 +67,8 @@
 
 
     .active {
-        background-color: #ffffff;
+        background-color: $grey-color-med;
+        box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
         .page-link {
             color: #575757;
         }
@@ -140,6 +142,7 @@
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    text-align: center;
 }
 
 .footer-heading {
@@ -207,6 +210,12 @@
 /**
  * Page content
  */
+.mainpage-content {
+    padding: $spacing-unit 0;
+    text-align: center;
+    font-size: 140%;
+}
+
 .page-content {
     padding: $spacing-unit 0;
 }
