@@ -37,6 +37,21 @@ Here's how to edit this website!
 
 4. visit `cocolab.stanford.edu/new-page.html`.
 
+### How to add a new entry to the "News" section
+
+1. make a markdown file in the \_posts folder. give it a name according to these conventions: yyyy-mm-dd-title.md 
+
+2. give it a header of the following form: 
+
+---
+layout: post
+title:  "YOUR TITLE"
+date:   2018-03-03 16:16:01 -0600 [your date/time goes here]
+categories: [a couple relevant tags]
+---
+
+3. Write the body of your post below the header. 
+
 ### How to add a person to the website
 
 1. go to the file `_data/cocolab.yml`

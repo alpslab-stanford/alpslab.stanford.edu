@@ -9,8 +9,18 @@
 
 - role: Graduate students
   people:
+    - name: Masoud Jasbi
+      webpage: //web.stanford.edu/~masoudj/
+      img: masoud.jpg
+      bio:
+        - >
+          Masoud is a final year PhD student in linguistics. He got his undergraduate degree in linguistics from the University of Manchester. He is interested in children’s semantic development and the development of abstract concepts, especially those captured by words such as “and”, “or”, and “not".
+          
+
     - name: Brandon Waldon
       img: brandon.jpg
       bio:
         - >
-          Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language. 
+          Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language.
+
+    
