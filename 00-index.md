@@ -8,5 +8,5 @@ permalink: index.html
 
 In the ALPS Lab we study the inference processes involved in language production and comprehension. We study both sides of the communicative coin: how speakers choose an utterance to convey an intended meaning and how listeners arrive at interpretations that are often much richer and more detailed than the utterance's literal meaning. To develop and test explicit theories of these processes, we employ linguistic analysis, behavioral experiments, corpus methods, and computational modeling.
 
-[Stanford Linguistics Department](https://linguistics.stanford.edu/) -- [Stanford University](https://www.stanford.edu/)
+
 
