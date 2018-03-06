@@ -43,12 +43,12 @@ Here's how to edit this website!
 
 2. give it a header of the following form: 
 
-		---
-		layout: post
-		title:  "YOUR TITLE"
-		date:   2018-03-03 16:16:01 -0600 [your date/time goes here]
-		categories: [a couple relevant tags]
-		---
+---
+layout: post
+title:  "YOUR TITLE"
+date:   2018-03-03 16:16:01 -0600 [your date/time goes here]
+categories: [a couple relevant tags]
+---
 
 3. Write the body of your post below the header. 
 
