@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    min-height: 56px;
+    min-height: 40px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -12,7 +12,7 @@
 
 .site-title {
     font-size: 26px;
-    //line-height: 40px;
+    line-height: 40px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -25,7 +25,7 @@
 
 .header-logo {
     width: $logo-width;
-    padding: 20px;
+    padding: 5px;
     padding-right: $spacing-unit;
     display: inline-block;
     float: left;
