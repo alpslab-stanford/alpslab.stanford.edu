@@ -3,8 +3,6 @@
  */
 .site-header {
     min-height: 30px;
-    //min-height: 56px;
-    //line-height: $logo-height;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -14,7 +12,8 @@
 
 .site-title {
     font-size: 26px;
-    line-height: 56px;
+    //line-height: 56px;
+    line-height: 49px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
