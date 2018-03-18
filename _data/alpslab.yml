@@ -16,6 +16,12 @@
         - >
           Masoud is a final year PhD student in linguistics. He got his undergraduate degree in linguistics from the University of Manchester. He is interested in children’s semantic development and the development of abstract concepts, especially those captured by words such as “and”, “or”, and “not".
           
+   - name: Sebastian Schuster 
+      webpage: //sebschu.com
+      img: sebastian.jpg
+      bio:
+        - >
+          Sebastian got his BSc in Computer Science at the University of Vienna and his MSc in Computer Science at Stanford. He is interested in the language learning processes of adults and children and he studies how adults adapt to speaker idiosyncrasies. He also occasionally uses insights from formal linguistics to design multilingual sentence representations and build better natural language understanding systems.          
 
     - name: Brandon Waldon
       img: brandon.jpg
