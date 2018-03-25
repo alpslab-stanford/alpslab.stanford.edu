@@ -2,13 +2,9 @@
 title: ALPS Lab
 email: jdegen@stanford.edu
 description: >
-  interActive Language Processing at Stanford Lab
-  (or ALPS Lab for short)
-#baseurl: "/home/feste/everything-cocolab/WWW"
-#url: "https://web.stanford.edu/~erindb/cocowebsite/WWW"
-#url: "file://" # the base hostname & protocol for your site
-#url: "http://alpslab.stanford.edu/"
-url: "http://web.stanford.edu/group/alpslab"
+  interActive Language Processing Lab at Stanford
+  (ALPS Lab for short)
+url: "http://alpslab.stanford.edu/"
 github_username:  thegricean
 
 gems: ['jekyll/scholar']
