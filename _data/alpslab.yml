@@ -15,7 +15,21 @@
       bio:
         - >
           Masoud is a final year PhD student in linguistics. He got his undergraduate degree in linguistics from the University of Manchester. He is interested in children’s semantic development and the development of abstract concepts, especially those captured by words such as “and”, “or”, and “not".
-          
+    
+    - name: Daisy Leigh
+      webpage: //web.stanford.edu/~ddleigh/
+      img: daisy.jpg
+      bio:
+        - >
+          Daisy did her undergraduate degree in Linguistics at the University of Edinburgh, and her Master’s degree in Language and Cognition at King’s College London. As a PhD student in Stanford Linguistics, she’s interested in how social, pragmatic, and cognitive factors shape language use in interaction: how listeners use social and linguistic cues to construct interpretations of speakers and meaning in comprehension.
+
+    - name: Ciyang Qing
+      webpage: //sites.google.com/site/qciyang/
+      img: ciyang.jpg
+      bio:
+        - >
+          Ciyang did his undergrad in Information and Computing Science at Peking University and MSc in Logic at ILLC, University of Amsterdam. He is interested in natural language semantics and pragmatics, and uses computational and experimental methods to study phenomena such as vagueness and context sensitivity.
+
     - name: Sebastian Schuster
       webpage: //sebschu.com
       img: sebastian.jpg
