@@ -12,4 +12,4 @@ Potential postdocs: Please contact Judith Degen directly.
 
 Potential graduate students: Please submit an application through the [Department of Linguistics Graduate Admissions website](https://linguistics.stanford.edu/degree-programs/graduate-admissions).
 
-Potential research assistants (undergraduate or masters): Please send Judith Degen an email expressing interest, and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScd0AD-ed74v1F-a7qozr-rl6ioF02Xr8FWM5FqH3ynuISjqg/viewform?usp=sf_link).
+Potential research assistants (undergraduate or masters, unfortunately **restricted to current Stanford students**): Please send Judith Degen an email expressing interest, and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScd0AD-ed74v1F-a7qozr-rl6ioF02Xr8FWM5FqH3ynuISjqg/viewform?usp=sf_link).
