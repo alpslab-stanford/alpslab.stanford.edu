@@ -31,6 +31,12 @@
         - >
           Masoud is a final year PhD student in linguistics. He got his undergraduate degree in linguistics from the University of Manchester. He is interested in children’s semantic development and the development of abstract concepts, especially those captured by words such as “and”, “or”, and “not".
 
+    - name: Elisa Kreiss
+      img: elisa.jpg
+      bio:
+        - >
+          Elisa is a first year graduate student in the Linguistics department. She uses psycholinguistic experiments and computational models to understand the principles that underlie language use - for example, in the production of referential expressions. Elisa received her Bachelor's degree in Cognitive Science at Osnabrueck University.
+
     - name: Daisy Leigh
       webpage: //web.stanford.edu/~ddleigh/
       img: daisy.jpg
