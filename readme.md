@@ -121,7 +121,7 @@ source ~/.bashrc
 git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
 # download Ruby 2.5.1. this will take some time.
 rbenv install 2.5.1
-# set your system's default ruby to 2.1.0
+# set your system's default ruby to 2.5.1
 rbenv global 2.5.1
 ```
 
