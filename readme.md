@@ -6,12 +6,11 @@ Here's how to edit this website!
 
 ## Overview
 
-1. Checkout [this repo](//github.com/erindb/cocolab.stanford.edu) on github
-2. Make changes and push to github (make sure you have collaborator privilages, and see later sections for details on specific kinds of changes)
-3. Go to `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` and pull your changes
+1. Make changes and push to github (make sure you have collaborator privilages, and see later sections for details on specific kinds of changes)
+2. Go to `/afs/ir.stanford.edu/group/alpslab/alpslab.stanford.edu` and pull your changes
 
 		ssh [SUNetID]@cardinal.stanford.edu
-		cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu
+		cd /afs/ir.stanford.edu/group/alpslab/alpslab.stanford.edu
 		git pull
 
 	There's a script on the server that makes the changes live after a successful merge. 
@@ -20,7 +19,7 @@ Here's how to edit this website!
 
 ### How to add a new page to the website
 
-1. make a markdown file, e.g. `new-file.md` in the top of the `cocolab.stanford.edu` directory
+1. make a markdown file, e.g. `new-file.md` in the top of the `alpslab.stanford.edu` directory
 
 2. add this to the top of the markdown file:
 
@@ -35,7 +34,7 @@ Here's how to edit this website!
 		title: New Page
 		---
 
-4. visit `cocolab.stanford.edu/new-page.html`.
+4. visit `alpslab.stanford.edu/new-page.html`.
 
 ### How to add a new entry to the "News" section
 
@@ -54,7 +53,7 @@ categories: [a couple relevant tags]
 
 ### How to add a person to the website
 
-1. go to the file `_data/cocolab.yml`
+1. go to the file `_data/alpslab.yml`
 
 2. find (or add) whatever role they play in the lab (e.g. Principal Investigator, Graduate Student, Alumni), and add a new person to that role.
 
@@ -73,7 +72,7 @@ categories: [a couple relevant tags]
 
 ### How to add a publication to the website
 
-1. go to the file `_bibliography/cocolab.bib` and add the publication.
+1. go to the file `_bibliography/alpslab.bib` and add the publication.
 
 ### How to add an image to the front page carousel
 
@@ -86,61 +85,63 @@ categories: [a couple relevant tags]
 		  label: "A description of my new image"
 		  alt: "if you want, you can add a line of alt text. otherwise, the label will be the alt text."
 
-### How to update Noah's CV
-(for now...)
+<!--- ### How to update Noah's CV --->
+<!--- (for now...) --->
 
-1. make changes to ndg-cv.md
+<!---  1. make changes to ndg-cv.md --->
 
-2. have `jekyll`, `jekyll-scholar`, and `pandoc` installed
+<!---  2. have `jekyll`, `jekyll-scholar`, and `pandoc` installed --->
 
-3. run `sh ./make-cv.bash`
+<!--- 3. run `sh ./make-cv.bash` --->
 
-4. `git add ndg-cv.md ndg-cv.pdf`
+<!--- 4. `git add ndg-cv.md ndg-cv.pdf` --->
 
 ## Troubleshooting
 
-If the website does not update within a minute or so of making these changes, this might be because the build script has stopped working. You can talk to Erin about this, or run
+If the website does not update within a minute or so of making these changes, this might be because the build script has stopped working. Run
 
-	source /afs/ir.stanford.edu/group/cocolab/.bash_profile
 	jekyll build
 	rsync -r -a -v _site/* ../WWW/
 
-in a terminal on the Stanford server in the `/afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu` directory.
+in a terminal on the Stanford server in the `/afs/ir.stanford.edu/group/alpslab/alpslab.stanford.edu` directory.
 
-### Set up
+### Setup
 
-To set up installing ruby gems without sudo access, these lines should be in your `~/.bash_profile` (or `~/.bashrc` or whatever you use):
-
-```
-PATH=$PATH:~/.gem/bin:~/bin
-export GEM_HOME=~/.gem
-```
-
-Once you've re-logged on or `source`ed your profile file, you can install [`jekyll`](https://jekyllrb.com/) and [`jekyll-scholar`](https://github.com/inukshuk/jekyll-scholar) using `gem`. This site uses `jekyll (2.5.3)` and `jekyll-scholar (4.3.3)`.
+As of 9/25/2018, the website can be updated provided one has Ruby 2.5.1, Jekyll 3.8.4, Jekyll-Scholar 5.1.4, and Redcarpet 3.4.0 (back compatibility with earlier versions of the aforementioned software is possible but not guaranteed). Your Cardinal account comes with versions of Ruby and Jekyll that are incompatible with the website. First, update Ruby via rbenv: 
 
 ```
-gem install jekyll -v 2.5.3
-gem install jekyll-scholar -v 4.3.3
+# get rbenv
+git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
+
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+# run the updated .bashrc
+source ~/.bashrc
+# fetch the ruby-build installer plugin to make things easier
+git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
+# download Ruby 2.5.1. this will take some time.
+rbenv install 2.5.1
+# set your system's default ruby to 2.1.0
+rbenv global 2.5.1
+```
+
+Next, get fresh Jekyll, and install Jekyll-Scholar and Redcarpet: 
+
+```
+gem install redcarpet -v 3.4.0
+gem install jekyll -v 3.8.4
+gem install jekyll-scholar -v 5.14.0
+```
+
+Lastly, ensure that local encoding is set to UTF-8:
+
+```
+export LANG=en_US.UTF-8
+export LANGUAGE=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
 ```
 
 Note that while `jekyll` is compatible with [GitHub pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/), [`jekyll-scholar` is not](https://github.com/inukshuk/jekyll-scholar#github-pages).
-
-Here's a possible `.git/hooks/post-merge` script.
-
-```
-#!/bin/sh
-
-export COCOHOME=/afs/ir.stanford.edu/group/cocolab
-export PATH=$PATH:${COCOHOME}/.gem/bin
-export GEM_HOME=${COCOHOME}/.gem
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
-cd /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/
-
-jekyll build
-
-rsync -r -a -v /afs/ir.stanford.edu/group/cocolab/cocolab.stanford.edu/_site/* /afs/ir.stanford.edu/group/cocolab/WWW/
-```
 
 For local debugging, one could run
 
@@ -148,7 +149,10 @@ For local debugging, one could run
 jekyll build
 ```
 
-and then navigate to `_site/index.html`. Unfortunately, the links in this repo are currently hard-coded with the assumption that all files are present at the host (in the online version, `http://cocolab.stanford.edu/`, in the local version `file://`), so further abstraction and modifications would have to be made in order to actually navigate the site locally...
+and then navigate to `_site/index.html`. 
+
+<!-- Unfortunately, the links in this repo are currently hard-coded with the assumption that all files are present at the host (in the online version, `http://cocolab.stanford.edu/`, in the local version `file://`), so further abstraction and modifications would have to be made in order to actually navigate the site locally... ---> 
+
 
 
 
