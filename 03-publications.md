@@ -13,7 +13,7 @@ permalink: publications.html
 
 {% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=submitted] %}
 
-{% for year in (2011..2018) reversed %}
+{% for year in (2011..2019) reversed %}
 
 <a class="subtle_link" name="{{year}}"></a>
 ## {{year}}
