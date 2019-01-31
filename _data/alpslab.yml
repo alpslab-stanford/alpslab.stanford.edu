@@ -25,6 +25,7 @@
           Michael studied Linguistics and Mathematics in Tübingen before spending a year as a visiting student in Edinburgh. He is interested in computational linguistics and using computational modeling to understand human language processing.
 
     - name: Elisa Kreiss
+      webpage: http://elisakreiss.com/
       img: elisa.jpg
       bio:
         - >
@@ -52,9 +53,22 @@
           Sebastian got his BSc in Computer Science at the University of Vienna and his MSc in Computer Science at Stanford. He is interested in the language learning processes of adults and children and he studies how adults adapt to speaker idiosyncrasies. He also occasionally uses insights from formal linguistics to design multilingual sentence representations and build better natural language understanding systems.
 
     - name: Brandon Waldon
+      webpage: https://bwaldon.github.io/
       img: brandon.jpg
       bio:
         - >
           Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language.
 
-    
+- role: Lab Manager
+  people:
+    - name: Leyla Kursat
+      img: leyla.jpg
+      bio: 
+        - >
+          Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested in the relationship between language acquisition, social experience and cognitive development.  
+
+- role: Lab Alumni
+      people:
+      name: Masoud Jasbi
+      webpage: https://jasbi.github.io/
+      
