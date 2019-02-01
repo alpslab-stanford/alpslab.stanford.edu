@@ -69,11 +69,11 @@
 
 - role: Lab Alumni
   people:
-      name: Masoud Jasbi
+    - name: Masoud Jasbi
       webpage: https://jasbi.github.io/
       img: masoud.jpg
-      bio:
-        - >
+      bio:    
+        - >    
           
 
 
