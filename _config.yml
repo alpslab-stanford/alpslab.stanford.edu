@@ -26,7 +26,7 @@ scholar:
   bibliography_list_tag: ul
 
   source: ./_bibliography
-  bibliography: alpslab.bib
+  bibliography: alpslab
   bibliography_template: <p>{{reference}} {{entry.annote}}</p>
 
   replace_strings: true
