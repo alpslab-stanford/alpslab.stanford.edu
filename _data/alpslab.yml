@@ -37,6 +37,13 @@
       bio:
         - >
           Daisy did her undergraduate degree in Linguistics at the University of Edinburgh, and her Master’s degree in Language and Cognition at King’s College London. As a PhD student in Stanford Linguistics, she’s interested in how social, pragmatic, and cognitive factors shape language use in interaction: how listeners use social and linguistic cues to construct interpretations of speakers and meaning in comprehension.
+    
+    - name: Eva Portelance
+      webpage:  https://web.stanford.edu/~portelan/
+      img: eva.jpg
+      bio:
+        - >
+          Eva completed a B.A. Honours in Linguistics and Computer Science at McGill University in 2017. She is interested in linguistic structure and computational modeling of language learning both in humans and machines.
 
     - name: Ciyang Qing
       webpage: //sites.google.com/site/qciyang/
@@ -58,13 +65,6 @@
       bio:
         - >
           Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language.
-
-    - name: Eva Portelance
-      webpage:  https://web.stanford.edu/~portelan/
-      img: eva.jpg
-      bio:
-        - >
-          Eva completed a B.A. Honours in Linguistics and Computer Science at McGill University in 2017. She is interested in linguistic structure and computational modeling of language learning both in humans and machines.
 
 
 - role: Lab Manager
