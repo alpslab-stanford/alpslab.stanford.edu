@@ -10,13 +10,6 @@
 - role: Graduate students
   people:
 
-    - name: Chantal Gratton
-      webpage: //chantalgratton.com
-      img: chantal.jpg
-      bio:
-        - >
-          Chantal completed her undergraduate degree in Linguistics at the University of Ottawa, and her Master’s degree in Linguistics at York University. She is primarily interested in the social uses of language in interaction, exploring how speakers make use of linguistic variation to construct meaning, including possible constraints imposed by context, and how listeners interpret these linguistic moves.
-
     - name: Michael Hahn
       webpage: //web.stanford.edu/~mhahn2/ 
       img: michael.jpg
@@ -38,6 +31,13 @@
         - >
           Daisy did her undergraduate degree in Linguistics at the University of Edinburgh, and her Master’s degree in Language and Cognition at King’s College London. As a PhD student in Stanford Linguistics, she’s interested in how social, pragmatic, and cognitive factors shape language use in interaction: how listeners use social and linguistic cues to construct interpretations of speakers and meaning in comprehension.
     
+    - name: Jiayi Lu
+      webpage: 
+      img: jiayi.jpg
+      bio:
+        - >
+          Jiayi did his undergraduate study in Linguistics, Neuroscience, and Integrated Sciences at Northwestern University before coming to Stanford. Jiayi is primarily interested in psycholinguistics and syntax. Specifically, he is interested in using experimental methods to inform syntactic theories, studying how performance factors may affect experimental results, and developing methods to better probe human linguistic competence. 
+
     - name: Eva Portelance
       webpage:  https://web.stanford.edu/~portelan/
       img: eva.jpg
