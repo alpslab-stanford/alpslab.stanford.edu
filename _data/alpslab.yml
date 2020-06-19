@@ -45,13 +45,6 @@
         - >
           Eva completed a B.A. Honours in Linguistics and Computer Science at McGill University in 2017. She is interested in linguistic structure and computational modeling of language learning both in humans and machines.
 
-    - name: Ciyang Qing
-      webpage: //sites.google.com/site/qciyang/
-      img: ciyang.jpg
-      bio:
-        - >
-          Ciyang did his undergrad in Information and Computing Science at Peking University and MSc in Logic at ILLC, University of Amsterdam. He is interested in natural language semantics and pragmatics, and uses computational and experimental methods to study phenomena such as vagueness and context sensitivity.
-
     - name: Sebastian Schuster
       webpage: //sebschu.com
       img: sebastian.jpg
@@ -77,11 +70,15 @@
 
 - role: Lab Alumni
   people:
+    - name: Ciyang Qing
+      webpage: //sites.google.com/site/qciyang/
+      img: ciyang.jpg
+      
     - name: Masoud Jasbi
       webpage: https://jasbi.github.io/
       img: masoud.jpg
-      bio:    
-        - >    
+
+
           
 
 
