@@ -1,7 +1,7 @@
 ---
  layout: default
- title: News
- permalink: news.html
+ title: Blog
+ permalink: blog.html
 ---
 
 <ul>
@@ -18,4 +18,4 @@
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/ALPSLabStanford?ref_src=twsrc%5Etfw">Tweets by ALPSLabStanford</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<a class="twitter-timeline" data-width="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/ALPSLabStanford?ref_src=twsrc%5Etfw">Tweets by ALPSLabStanford</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!--<a class="twitter-timeline" data-width="600" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/ALPSLabStanford?ref_src=twsrc%5Etfw">Tweets by ALPSLabStanford</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
