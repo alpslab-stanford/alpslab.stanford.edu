@@ -14,6 +14,8 @@ max_year: 2019 #the most recent year with papers published
 
 # Build settings
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables","no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # for BibTeX
 scholar:
