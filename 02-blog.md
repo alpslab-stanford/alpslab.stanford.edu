@@ -9,8 +9,11 @@
   <article>
     <h2>
         {{ post.title }}
-    </h2>
+   </h2>
+    <big><i> {{ post.author}} </i>
+    </big> <br>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    <br><br>
     {{ post.content }}
   </article>
 {% endfor %}
