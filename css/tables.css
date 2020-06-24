@@ -15,3 +15,11 @@ table td {
     padding:18px;
     border: 1px solid #c8c6c6;
 }
+
+blockquote {
+    border-left: .25em solid #dfe2e5;
+    color: #7e8893;
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: normal;
+}
