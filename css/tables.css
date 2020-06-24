@@ -1,0 +1,17 @@
+table {
+    border: 1px solid #c8c6c6;
+    border-radius:3px;
+    border-collapse: collapse;
+}
+table th {
+    padding:21px 25px 22px 25px;
+    border: 1px solid #c8c6c6;
+
+}
+table tr {
+    padding-left:20px;
+}
+table td {
+    padding:18px;
+    border: 1px solid #c8c6c6;
+}

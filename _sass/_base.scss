@@ -238,3 +238,22 @@ pre {
         }
     }
 }
+
+table {
+    border:#000000	1px solid;
+    border-radius:3px;
+}
+table th {
+    padding:21px 25px 22px 25px;
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
+}
+table tr {
+    padding-left:20px;
+}
+table td {
+    padding:18px;
+    border-top: 1px solid #000000;
+    border-bottom:1px solid #000000;
+    border-left: 1px solid #000000;
+}
