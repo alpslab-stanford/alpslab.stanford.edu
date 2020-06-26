@@ -23,3 +23,15 @@ blockquote {
     font-size: 16px;
     letter-spacing: normal;
 }
+.post_element {
+    margin-bottom: 30px;
+}
+.post_element:last-of-type {
+    margin-bottom: 0px;
+}
+.content_preview>*{
+    display: none;
+}
+.content_preview>p:first-child{
+    display: block;
+}

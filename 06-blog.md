@@ -4,8 +4,9 @@
  permalink: blog.html
 ---
 
-<ul>
+<ul class='post-list'>
 {% for post in site.posts %}
+<div class='post_element'>
   <article>
     <h2>
         {{ post.title }}
@@ -14,8 +15,13 @@
     </big> <br>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     <br><br>
-    {{ post.content }}
+    <div class='content_preview'>
+      {{ post.content }}
+    </div>
   </article>
+    <p><a href="{{ post.permalink }}">See More</a></p>
+    </div>
+
 {% endfor %}
 </ul>
 
