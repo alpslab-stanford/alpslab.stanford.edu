@@ -11,6 +11,7 @@
   people:
     - name: Morgan Moyer
       img: morgan.jpg
+      webpage: https://mcmoyer11.github.io
       bio: 
       - >
         Morgan got her BA in Linguistics from the University of Maryland, College Park, where she was a research assistant on the Acquisition of Attitudes project, PIs Valentine Hacquard and Jeff Lidz. She recently defended her dissertation on the pragmatics of non-exhaustivity in wh-questions from Rutgers University under the supervision of Kristen Syrett. She received an NSF postdoctoral fellowship to work with Judith Degen extending her dissertation work using corpus and computational methods. She is interested in pragmatics, semantics, cognitive science, and philosophy of mind.
@@ -67,7 +68,6 @@
         - >
           Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language.
 
-
 - role: Lab Manager
   people:
     - name: Leyla Kursat
@@ -75,6 +75,15 @@
       bio: 
         - >
           Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested in the relationship between language acquisition, social experience and cognitive development.  
+
+- role: Research Assistants
+  people:
+    - name: Dean Marko
+      img: dean.jpg
+      bio: 
+        - >
+        Dean is an undergraduate senior at Stanford, majoring in linguistics. He is working as a research assistant in the lab, and is interested in the relationship between psycholinguistics and sociolinguistics, as well as experimental approaches to pragmatics.
+          
 
 - role: Lab Alumni
   people:
