@@ -90,7 +90,8 @@
     - name: Stefan Pophristic
       img: stefan.jpg
       bio:
-        - > Stefan studied Linguistics and Cognitive Science at the University of Pennsylvania. His main research interests are in morphology, psycholinguistics, and language acquisition.
+        - > 
+          Stefan studied Linguistics and Cognitive Science at the University of Pennsylvania. His main research interests are in morphology, psycholinguistics, and language acquisition.
 
 - role: Lab Alumni
   people:
