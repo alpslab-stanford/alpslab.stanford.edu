@@ -61,30 +61,30 @@
         - >
           Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language.
 
-  - name: Bran Papineau
-    webpage: branpap.github.io
-    img: bran.jpg
-    bio:
-      - >
-        Bran is a second-year PhD student of Linguistics. Their interests include language and gender, language and music, and socio- and psycholinguistics more broadly. They also occasionally enjoy straying into morphology, and their current QP deals with English gender morphology and social ideologies. They also enjoy the language-learning side of linguistics, and have studied Spanish, Faroese, Russian, Mandarin, and Greek.
+    - name: Bran Papineau
+      webpage: branpap.github.io
+      img: bran.jpg
+      bio:
+        - >
+          Bran is a second-year PhD student of Linguistics. Their interests include language and gender, language and music, and socio- and psycholinguistics more broadly. They also occasionally enjoy straying into morphology, and their current QP deals with English gender morphology and social ideologies. They also enjoy the language-learning side of linguistics, and have studied Spanish, Faroese, Russian, Mandarin, and Greek.
 
-  - name: Leyla Kursat
-    img: leyla.jpg
-    bio:
-      - >
-        Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.
+    - name: Leyla Kursat
+      img: leyla.jpg
+      bio:
+        - >
+          Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.
 
-  - name: Dhara Yu
-    img: dhara.jpg
-    bio:
-      - >
-        Dhara is a current master's student in Computer Science and research assistant in the ALPS Lab. She recently graduated with a B.S. in Symbolic Systems, also from Stanford. She is interested in the computational modeling of pragmatic language, with the goal of imparting machine intelligence with more human-like linguistic reasoning abilities.
+    - name: Dhara Yu
+      img: dhara.jpg
+      bio:
+        - >
+          Dhara is a current master's student in Computer Science and research assistant in the ALPS Lab. She recently graduated with a B.S. in Symbolic Systems, also from Stanford. She is interested in the computational modeling of pragmatic language, with the goal of imparting machine intelligence with more human-like linguistic reasoning abilities.
 
-  - name: Dean Marko
-    img: dean.jpg
-    bio:
-      - >
-        Dean studied linguistics and psychology for his undergraduate degree at Stanford, and is currently pursuing a Master's degree in Symbolic Systems. He is interested in the relationship between psycholinguistics and sociolinguistics — his undergraduate thesis looked at the relationship between social ideologies and linguistic processing, research which he is continuing this year.
+    - name: Dean Marko
+      img: dean.jpg
+      bio:
+        - >
+          Dean studied linguistics and psychology for his undergraduate degree at Stanford, and is currently pursuing a Master's degree in Symbolic Systems. He is interested in the relationship between psycholinguistics and sociolinguistics — his undergraduate thesis looked at the relationship between social ideologies and linguistic processing, research which he is continuing this year.
 
 - role: Lab Manager
   people:
