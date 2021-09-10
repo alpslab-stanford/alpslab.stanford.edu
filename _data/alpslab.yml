@@ -7,15 +7,6 @@
         - >
           Judith did her undergrad and MSc work in Cognitive Science at the University of Osnabrück and her PhD work in Brain & Cognitive Sciences and Linguistics at the University of Rochester. She is interested in how people construct meaning in communication. She spends her time thinking about how to characterize the interaction of linguistic information, context, and world knowledge in language production and comprehension.
 
-- role: Postdocs
-  people:
-    - name: Morgan Moyer
-      img: morgan.jpg
-      webpage: //morganmoyer.net
-      bio:
-      - >
-        Morgan got her BA in Linguistics from the University of Maryland, College Park, where she was a research assistant on the Acquisition of Attitudes project, PIs Valentine Hacquard and Jeff Lidz. She recently defended her dissertation on the pragmatics of non-exhaustivity in wh-questions from Rutgers University under the supervision of Kristen Syrett. She received an NSF postdoctoral fellowship to work with Judith Degen extending her dissertation work using corpus and computational methods. She is interested in pragmatics, semantics, cognitive science, and philosophy of mind.
-
 - role: Graduate students
   people:
     - name: Michael Hahn
@@ -31,13 +22,6 @@
       bio:
         - >
           Elisa is a third year graduate student in the Linguistics department. She uses psycholinguistic experiments and computational models to understand the principles that underlie language use - for example, in the production of referential expressions. Elisa received her Bachelor's degree in Cognitive Science at Osnabrueck University.
-
-    - name: Daisy Leigh
-      webpage: //web.stanford.edu/~ddleigh/
-      img: daisy.jpg
-      bio:
-        - >
-          Daisy did her undergraduate degree in Linguistics at the University of Edinburgh, and her Master’s degree in Language and Cognition at King’s College London. As a PhD student in Stanford Linguistics, she’s interested in how social, pragmatic, and cognitive factors shape language use in interaction: how listeners use social and linguistic cues to construct interpretations of speakers and meaning in comprehension.
 
     - name: Jiayi Lu
       webpage: https://sites.northwestern.edu/jiayilu/
@@ -107,3 +91,11 @@
     - name: Masoud Jasbi
       webpage: https://jasbi.github.io/
       img: masoud.jpg
+
+    - name: Daisy Leigh
+      webpage: //web.stanford.edu/~ddleigh/
+      img: daisy.jpg
+
+    - name: Morgan Moyer
+      img: morgan.jpg
+      webpage: //morganmoyer.net
