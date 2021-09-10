@@ -18,7 +18,6 @@
 
 - role: Graduate students
   people:
-
     - name: Michael Hahn
       webpage: //web.stanford.edu/~mhahn2/
       img: michael.jpg
@@ -91,11 +90,11 @@
     - name: Stefan Pophristic
       img: stefan.jpg
       bio:
-        - > Stefan
+        - >
+
 
 - role: Research Assistants
   people:
-
 
 - role: Lab Alumni
   people:
