@@ -3,7 +3,7 @@
     - name: Judith Degen
       img: judith.jpg
       webpage: //www.stanford.edu/people/jdegen
-      bio: 
+      bio:
         - >
           Judith did her undergrad and MSc work in Cognitive Science at the University of Osnabrück and her PhD work in Brain & Cognitive Sciences and Linguistics at the University of Rochester. She is interested in how people construct meaning in communication. She spends her time thinking about how to characterize the interaction of linguistic information, context, and world knowledge in language production and comprehension.
 
@@ -12,7 +12,7 @@
     - name: Morgan Moyer
       img: morgan.jpg
       webpage: //morganmoyer.net
-      bio: 
+      bio:
       - >
         Morgan got her BA in Linguistics from the University of Maryland, College Park, where she was a research assistant on the Acquisition of Attitudes project, PIs Valentine Hacquard and Jeff Lidz. She recently defended her dissertation on the pragmatics of non-exhaustivity in wh-questions from Rutgers University under the supervision of Kristen Syrett. She received an NSF postdoctoral fellowship to work with Judith Degen extending her dissertation work using corpus and computational methods. She is interested in pragmatics, semantics, cognitive science, and philosophy of mind.
 
@@ -20,7 +20,7 @@
   people:
 
     - name: Michael Hahn
-      webpage: //web.stanford.edu/~mhahn2/ 
+      webpage: //web.stanford.edu/~mhahn2/
       img: michael.jpg
       bio:
         - >
@@ -39,13 +39,13 @@
       bio:
         - >
           Daisy did her undergraduate degree in Linguistics at the University of Edinburgh, and her Master’s degree in Language and Cognition at King’s College London. As a PhD student in Stanford Linguistics, she’s interested in how social, pragmatic, and cognitive factors shape language use in interaction: how listeners use social and linguistic cues to construct interpretations of speakers and meaning in comprehension.
-    
+
     - name: Jiayi Lu
       webpage: https://sites.northwestern.edu/jiayilu/
       img: jiayi.jpg
       bio:
         - >
-          Jiayi did his undergraduate study in Linguistics, Neuroscience, and Integrated Sciences at Northwestern University before coming to Stanford. Jiayi is primarily interested in psycholinguistics and syntax. Specifically, he is interested in using experimental methods to inform syntactic theories, studying how performance factors may affect experimental results, and developing methods to better probe human linguistic competence. 
+          Jiayi did his undergraduate study in Linguistics, Neuroscience, and Integrated Sciences at Northwestern University before coming to Stanford. Jiayi is primarily interested in psycholinguistics and syntax. Specifically, he is interested in exploring the various factors that affect sentence acceptability judgments, and how experimental methods can inform syntactic theories.
 
     - name: Eva Portelance
       webpage:  https://web.stanford.edu/~portelan/
@@ -61,21 +61,40 @@
         - >
           Brandon did his BA in Linguistics at the University of Chicago before spending a year as a visiting student researcher at Leibniz-ZAS Berlin. He is interested in experimental approaches to semantics and pragmatics, corpus linguistics, and philosophy of language.
 
+  - name: Bran Papineau
+    webpage: branpap.github.io
+    img: bran.jpg
+    bio:
+      - >
+        Bran is a second-year PhD student of Linguistics. Their interests include language and gender, language and music, and socio- and psycholinguistics more broadly. They also occasionally enjoy straying into morphology, and their current QP deals with English gender morphology and social ideologies. They also enjoy the language-learning side of linguistics, and have studied Spanish, Faroese, Russian, Mandarin, and Greek.
+
+  - name: Leyla Kursat
+    img: leyla.jpg
+    bio:
+      - >
+        Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.
+
+  - name: Dhara Yu
+    img: dhara.jpg
+    bio:
+      - >
+        Dhara is a current master's student in Computer Science and research assistant in the ALPS Lab. She recently graduated with a B.S. in Symbolic Systems, also from Stanford. She is interested in the computational modeling of pragmatic language, with the goal of imparting machine intelligence with more human-like linguistic reasoning abilities.
+
+  - name: Dean Marko
+    img: dean.jpg
+    bio:
+      - >
+        Dean studied linguistics and psychology for his undergraduate degree at Stanford, and is currently pursuing a Master's degree in Symbolic Systems. He is interested in the relationship between psycholinguistics and sociolinguistics — his undergraduate thesis looked at the relationship between social ideologies and linguistic processing, research which he is continuing this year.
+
 - role: Lab Manager
   people:
-    - name: Leyla Kursat
-      img: leyla.jpg
-      bio: 
+    - name: Stefan Pophristic
+      img: stefan.jpg
+      bio:
         - >
-          Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.           
 
 - role: Research Assistants
   people:
-    - name: Dean Marko
-      img: dean.jpg
-      bio: 
-        - >
-          Dean is an undergraduate senior at Stanford, majoring in linguistics. He is working as a research assistant in the lab, and is interested in the relationship between psycholinguistics and sociolinguistics, as well as experimental approaches to pragmatics.
 
 
 - role: Lab Alumni
@@ -83,17 +102,11 @@
     - name: Sebastian Schuster
       webpage: //sebschu.com
       img: sebastian.jpg
-      
+
     - name: Ciyang Qing
       webpage: //sites.google.com/site/qciyang/
       img: ciyang.jpg
-      
+
     - name: Masoud Jasbi
       webpage: https://jasbi.github.io/
       img: masoud.jpg
-
-
-          
-
-
-      
