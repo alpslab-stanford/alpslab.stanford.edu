@@ -9,19 +9,6 @@
 
 - role: Graduate students
   people:
-    - name: Michael Hahn
-      webpage: //web.stanford.edu/~mhahn2/
-      img: michael.jpg
-      bio:
-        - >
-          Michael studied Linguistics and Mathematics in Tübingen before spending a year as a visiting student in Edinburgh. He is interested in computational linguistics and using computational modeling to understand human language processing.
-
-    - name: Elisa Kreiss
-      webpage: http://elisakreiss.com/
-      img: elisa.jpg
-      bio:
-        - >
-          Elisa is a third year graduate student in the Linguistics department. She uses psycholinguistic experiments and computational models to understand the principles that underlie language use - for example, in the production of referential expressions. Elisa received her Bachelor's degree in Cognitive Science at Osnabrueck University.
 
     - name: Jiayi Lu
       webpage: https://sites.northwestern.edu/jiayilu/
@@ -63,7 +50,7 @@
       img: leyla.jpg
       bio:
         - >
-          LLLeyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.
+          Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.
 
     - name: Dhara Yu
       img: dhara.jpg
@@ -107,3 +94,11 @@
     - name: Morgan Moyer
       img: morgan.jpg
       webpage: //morganmoyer.net
+
+    - name: Michael Hahn
+      webpage: //web.stanford.edu/~mhahn2/
+      img: michael.jpg
+
+    - name: Elisa Kreiss
+      webpage: http://elisakreiss.com/
+      img: elisa.jpg
