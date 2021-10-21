@@ -4,7 +4,7 @@ email: jdegen@stanford.edu
 description: >
   interActive Language Processing Lab at Stanford
   (ALPS Lab for short)
-url: "http://alpslab.stanford.edu/"
+url: "https://alpslab.stanford.edu/"
 github_username:  thegricean
 
 gems: ['jekyll/scholar']
