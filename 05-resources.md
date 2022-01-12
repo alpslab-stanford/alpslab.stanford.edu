@@ -4,6 +4,12 @@ title: Resources
 permalink: resources.html
 ---
 
+## Models
+
+* [Interactive demonstration of Waldon & Degen (2021) models](https://bwaldon.shinyapps.io/crossling-ref/)
+* [Interactive demonstration of Kreiss & Degen (2020) models](https://shiny.alps.science/ekreiss/contrastive_inference/)
+
+
 ## Tutorials
 
 * [Running Web-based Experiments](https://sebschu.github.io/web-based-experiments/)
