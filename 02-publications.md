@@ -15,7 +15,7 @@ permalink: publications.html
 
 ## Published
 
-{% for year in (2011..2021) reversed %}
+{% for year in (2011..2022) reversed %}
 <a class="subtle_link" name="{{year}}"></a>
 ## {{year}}
 
