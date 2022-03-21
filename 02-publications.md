@@ -16,6 +16,7 @@ permalink: publications.html
 {% for year in (2011..2021) reversed %}
 
 <a class="subtle_link" name="{{year}}"></a>
+## Published
 ## {{year}}
 
 {% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year={{year}}] %}
