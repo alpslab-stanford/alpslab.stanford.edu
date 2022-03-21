@@ -13,7 +13,7 @@ Here's how to edit this website!
 		cd /afs/ir.stanford.edu/group/alpslab/alpslab.stanford.edu
 		git pull
 
-	There's a script on the server that makes the changes live after a successful merge. 
+	There's a script on the server that makes the changes live after a successful merge.
 
 ## Specific kinds of changes
 
@@ -38,9 +38,9 @@ Here's how to edit this website!
 
 ### How to add a new entry to the "News" section
 
-1. make a markdown file in the \_posts folder. give it a name according to these conventions: yyyy-mm-dd-title.md 
+1. make a markdown file in the \_posts folder. give it a name according to these conventions: yyyy-mm-dd-title.md
 
-2. give it a header of the following form: 
+2. give it a header of the following form:
 
 		---
 		layout: post
@@ -49,7 +49,7 @@ Here's how to edit this website!
 		categories: [a couple relevant tags]
 		---
 
-3. Write the body of your post below the header. 
+3. Write the body of your post below the header.
 
 ### How to add a person to the website
 
@@ -73,6 +73,16 @@ Here's how to edit this website!
 ### How to add a publication to the website
 
 1. go to the file `_bibliography/alpslab.bib` and add the publication.
+
+If the publication is not appearing once you publish it to the website, this could be because of:
+1. A typo in the alpslab.bib file. Make sure all the commas are in the right places!
+2. You haven't published anything for this year yet and don't have the year header set up.
+
+If (2) is the case, navigate to _config.yml at the root of the directory. Change line 12 as follows
+max_year: *insert new year*
+
+Then navigate to 02-publications.md at the root of the directory. Change line 18 as follows
+{% for year in (2011..*insert new year*) reversed %}
 
 ### How to add an image to the front page carousel
 
@@ -107,7 +117,7 @@ in a terminal on the Stanford server in the `/afs/ir.stanford.edu/group/alpslab/
 
 ### Setup
 
-As of 9/25/2018, the website can be updated provided one has Ruby 2.5.1, Jekyll 3.8.4, Jekyll-Scholar 5.1.4, and Redcarpet 3.4.0 (back compatibility with earlier versions of the aforementioned software is possible but not guaranteed). Your Cardinal account comes with versions of Ruby and Jekyll that are incompatible with the website. First, update Ruby via rbenv: 
+As of 9/25/2018, the website can be updated provided one has Ruby 2.5.1, Jekyll 3.8.4, Jekyll-Scholar 5.1.4, and Redcarpet 3.4.0 (back compatibility with earlier versions of the aforementioned software is possible but not guaranteed). Your Cardinal account comes with versions of Ruby and Jekyll that are incompatible with the website. First, update Ruby via rbenv:
 
 ```
 # get rbenv
@@ -125,7 +135,7 @@ rbenv install 2.5.1
 rbenv global 2.5.1
 ```
 
-Next, get fresh Jekyll, and install Jekyll-Scholar and Redcarpet: 
+Next, get fresh Jekyll, and install Jekyll-Scholar and Redcarpet:
 
 ```
 gem install redcarpet -v 3.4.0
@@ -149,11 +159,6 @@ For local debugging, one could run
 jekyll build
 ```
 
-and then navigate to `_site/index.html`. 
+and then navigate to `_site/index.html`.
 
-<!-- Unfortunately, the links in this repo are currently hard-coded with the assumption that all files are present at the host (in the online version, `http://cocolab.stanford.edu/`, in the local version `file://`), so further abstraction and modifications would have to be made in order to actually navigate the site locally... ---> 
-
-
-
-
-
+<!-- Unfortunately, the links in this repo are currently hard-coded with the assumption that all files are present at the host (in the online version, `http://cocolab.stanford.edu/`, in the local version `file://`), so further abstraction and modifications would have to be made in order to actually navigate the site locally... --->
