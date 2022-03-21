@@ -79,10 +79,12 @@ If the publication is not appearing once you publish it to the website, this cou
 2. You haven't published anything for this year yet and don't have the year header set up.
 
 If (2) is the case, navigate to _config.yml at the root of the directory. Change line 12 as follows
-max_year: *insert new year*
+
+`max_year: *insert new year*`
 
 Then navigate to 02-publications.md at the root of the directory. Change line 18 as follows
-{% for year in (2011..*insert new year*) reversed %}
+
+`{% for year in (2011..*insert new year*) reversed %}`
 
 ### How to add an image to the front page carousel
 
