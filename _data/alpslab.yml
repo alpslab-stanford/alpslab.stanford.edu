@@ -72,13 +72,19 @@
         - >
           Dean studied linguistics and psychology for his undergraduate degree at Stanford, and is currently pursuing a Master's degree in Symbolic Systems. He is interested in the relationship between psycholinguistics and sociolinguistics — his undergraduate thesis looked at the relationship between social ideologies and linguistic processing, research which he is continuing this year.
 
+    - name: Penny Pan
+      img: penny.jpg
+      bio:
+        - >
+          Penny received her B.A. in Cognitive Science from Vassar College and is currently a master’s student in the Symbolic Systems program at Stanford. She is interested in using computational models as well as behavioral experiments to study how people process language. Her work focuses on psycholinguistics, pragmatics, and bilingualism.
+
 - role: Lab Manager
   people:
     - name: Stefan Pophristic
       img: stefan.jpg
       bio:
         - >
-          Stefan studied Linguistics and Cognitive Science at the University of Pennsylvania. His main research interests are in morphology, psycholinguistics, and language acquisition.
+          Stefan studied Linguistics and Cognitive Science at the University of Pennsylvania. His main research interests are in morphology, psycholinguistics, and language acquisition. He will be starting his Ph.D. this upcoming Fall at NYU.
 
 - role: Lab Alumni
   people:
