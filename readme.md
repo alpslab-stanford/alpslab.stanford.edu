@@ -82,7 +82,7 @@ If (2) is the case, navigate to _config.yml at the root of the directory. Change
 
 `max_year: *insert new year*`
 
-Then navigate to 02-publications.md at the root of the directory. Change line 18 as follows
+Then navigate to 02-publications.md at the root of the directory. Change line 18 as follows:
 
 `{% for year in (2011..*insert new year*) reversed %}`
 
