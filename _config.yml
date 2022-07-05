@@ -7,7 +7,7 @@ description: >
 url: "https://alpslab.stanford.edu/"
 github_username:  thegricean
 
-gems: ['jekyll/scholar']
+plugins: ['jekyll/scholar']
 
 max_year: 2022 #the most recent year with papers published
 # i should figure out how to automate that...
