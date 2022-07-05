@@ -7,11 +7,11 @@ permalink: publications.html
 
 ### To appear
 
-{% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=to appear] %}
+<!-- {% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=to appear] %} -->
 
 ### Submitted
 
-{% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=submitted] %}
+<!-- {% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year=submitted] %} -->
 
 ## Published
 
@@ -19,6 +19,6 @@ permalink: publications.html
 <a class="subtle_link" name="{{year}}"></a>
 ## {{year}}
 
-{% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year={{year}}] %}
+<!-- {% bibliography --template bibtemplate --style _bibliography/alpslab.csl --query @*[year={{year}}] %} -->
 
 {% endfor %}
