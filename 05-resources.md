@@ -12,7 +12,7 @@ permalink: resources.html
 
 ## Tutorials
 
-* [Running Web-based Experiments](https://sebschu.github.io/web-based-experiments/)
+* [Running Web-based Experiments](https://sebschu.github.io/web-based-experiments/) 
 * [Probabilistic Language Understanding](//gscontras.github.io/probLang/)
 * [LINGUIST 245 Methods in Psycholinguistics notes](https://github.com/thegricean/LINGUIST245)
 
