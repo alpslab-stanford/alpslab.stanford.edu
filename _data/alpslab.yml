@@ -17,13 +17,6 @@
         - >
           Jiayi did his undergraduate study in Linguistics, Neuroscience, and Integrated Sciences at Northwestern University before coming to Stanford. Jiayi is primarily interested in psycholinguistics and syntax. Specifically, he is interested in exploring the various factors that affect sentence acceptability judgments, and how experimental methods can inform syntactic theories.
 
-    - name: Eva Portelance
-      webpage:  https://web.stanford.edu/~portelan/
-      img: eva.jpg
-      bio:
-        - >
-          Eva completed a B.A. Honours in Linguistics and Computer Science at McGill University in 2017. She is interested in linguistic structure and computational modeling of language learning both in humans and machines.
-
     - name: Brandon Waldon
       webpage: https://bwaldon.github.io/
       img: brandon.jpg
@@ -49,28 +42,7 @@
       img: adolfo.jpg
       bio:
         - >
-          Adolfo is a 2nd year PhD student in the Department of Linguistics. He is interested in computational linguistics, semantics, sociolinguistics and multilingualism. He uses computational and experimental methods to answer questions about meaning and linguistic variation.
-
-- role: Masters students
-  people:
-    - name: Leyla Kursat
-      img: leyla.jpg
-      bio:
-        - >
-          Leyla studied Cognitive and Brain Sciences at Tufts University. She is interested how general properties of cognition, our perception and representation of the world shape the way we construct meaning.
-
-    - name: Dhara Yu
-      img: dhara.jpg
-      webpage: https://dharakyu.com/
-      bio:
-        - >
-          Dhara is a current master's student in Computer Science and research assistant in the ALPS Lab. She recently graduated with a B.S. in Symbolic Systems, also from Stanford. She is interested in the computational modeling of pragmatic language, with the goal of imparting machine intelligence with more human-like linguistic reasoning abilities.
-
-    - name: Dean Manko
-      img: dean.jpg
-      bio:
-        - >
-          Dean studied linguistics and psychology for his undergraduate degree at Stanford, and is currently pursuing a Master's degree in Symbolic Systems. He is interested in the relationship between psycholinguistics and sociolinguistics — his undergraduate thesis looked at the relationship between social ideologies and linguistic processing, research which he is continuing this year.
+          Adolfo is a second-year PhD student in the Department of Linguistics. He is interested in computational linguistics, semantics, sociolinguistics and multilingualism. He uses computational and experimental methods to answer questions about meaning and linguistic variation.
 
     - name: Penny Pan
       img: penny.jpg
@@ -78,14 +50,27 @@
         - >
           Penny received her B.A. in Cognitive Science from Vassar College and is currently a master’s student in the Symbolic Systems program at Stanford. She is interested in using computational models as well as behavioral experiments to study how people process language. Her work focuses on psycholinguistics, pragmatics, and bilingualism.
 
-- role: Lab Manager
-  people:
-    - name: Stefan Pophristic
-      img: stefan.jpg
-      webpage: https://www.pophristic.com/
+    - name: Ahmad Jabbar
+      webpage: https://ahmad-jabbar.github.io/
+      img: ahmad.jpg
       bio:
         - >
-          Stefan studied Linguistics and Cognitive Science at the University of Pennsylvania. His main research interests are in morphology, psycholinguistics, and language acquisition. He will be starting his Ph.D. this upcoming Fall at NYU. 
+          Ahmad is a first-year Linguistics PhD student. He works on formal pragmatics and semantics, with interests in computation theory, nlp, and psycholinguistics. His current projects focus on compositionality and discourse structure.
+
+
+- role: Undergraduate Students
+  people:
+    - name: Madigan Brodsky
+      img: madigan.jpg
+      bio:
+        ->
+          Madigan is an third-year undergraduate linguistcs student at Stanford. She is broadly interested in language as a product of more general cognitive processes, as well as linguistic applications in the legal field. She is currently working  on projects involoving the resolution of linguistic vagueness in legal contracts, investigations into the linguistic effects of orthographic constructions in English, and building further research regarding uncertainity and causation.
+
+    - name: Neil Rathi
+      img: neil.jpg
+      bio:
+        ->
+          Neil is a first-year undergraduate student studying Linguistics and Math. He is interested in morphology and pragmatics. Specifically, he is interested in probabilistic models of language processing and comprehension, as well as their broader cross-linguistic and typological implications.
 
 - role: Lab Alumni
   people:
@@ -116,3 +101,21 @@
     - name: Elisa Kreiss
       webpage: http://elisakreiss.com/
       img: elisa.jpg
+
+    - name: Stefan Pophristic
+      webpage: https://www.pophristic.com/
+      img: stefan.jpg
+
+    - name: Eva Portelance
+      webpage: https://web.stanford.edu/~portelan/
+      img: eva.jpg
+
+    - name: Dhara Yu
+      webpage: https://dharakyu.com/
+      img: dhara.jpg
+
+    - name: Dean Manko
+      img: dean.jpg
+
+    - name: Leyla Kursat
+      img: leyla.jpg
